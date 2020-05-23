@@ -1,0 +1,4 @@
+#Sat Apr 04 11:03:55 BRT 2020
+base.0=/home/abreu/Apps-Flutter/flutter_app_listacompras/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
